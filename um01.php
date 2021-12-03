@@ -16,5 +16,7 @@
   <pre><h2 style="font-size:30px;">This website is currenlty under maintenance!
     come back later :)</h2></pre>
   </center>
+  <?php
+  ?>
 </body>
 </html>
