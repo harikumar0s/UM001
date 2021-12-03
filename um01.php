@@ -1,1 +1,1 @@
-<?php include_once("um01.html"); ?>
+<?php header('Location: /index.html') ?>
